@@ -3,7 +3,9 @@
 <h2>About me </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedrayon&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedrayon" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**.
+- 🏢 I’m currently working as a **Data Science Intern @Akaike**.
+  
+- 🌱 I’m currently learning **Generative AI , Data Science and Machine Learning**.
 
 - 💬 Ask me about **BlockChain,Data Scinece and Machine Learning**.
 
